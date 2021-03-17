@@ -15,7 +15,7 @@ Isabela Carneiro Leão Menezes(iclm)
 Matheus Ribeiro Brant Nobre(mrbn)
 
 ### Resources
-Link para o jogo online->
+Link para o jogo online-> 
 
 Link para o freecodecamp -> https://www.freecodecamp.org/
 
